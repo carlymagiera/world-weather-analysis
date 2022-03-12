@@ -132,3 +132,10 @@ dmypy.json
 .env
 config.py
 config*
+
+# Adding config.py file.
+config.py
+
+#adding additional files
+API_practice.ipynb
+random_numbers.ipynb
